@@ -1,0 +1,44 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #000000;
+
+}
+
+h1{
+  margin: 0;
+  color: #16FF00;
+  font-family: 'Bruno Ace SC', cursive;
+  font-weight: bold;
+}
+
+p{
+  text-align: center;
+  color: #16FF00;
+  font-family: 'Bruno Ace SC', cursive;
+  font-size: 2rem;
+}
+
+footer{
+  color: #16FF00;
+  position: relative;
+  top: 100px;
+}
+
+.super-cont{
+  padding-top: 5%;
+}
+
+.container1{
+ text-align: center;
+}
+
+.container2{
+  display: inline-block;
+}
+
+#butt{
+  font-family: 'Bruno Ace SC', cursive;
+  position: relative;
+  top: 40px
+}
